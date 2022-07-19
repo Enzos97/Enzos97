@@ -26,5 +26,5 @@
 ### Projects
 |      Project :triangular_flag_on_post:   |     Description :pencil2:   | Repo :octocat:  | Link :link:  | 
 |-------------|-------------------|---|---|
-|    PokeApp    | Web application which shows a catalog of dog breeds. | <sup><kbd>***[Repo](https://github.com/Enzos97/PI--Henry-pokemon)***</kbd></sup> | <sup><kbd>***[Link](https://pokemonsbyenzo.vercel.app/)***</kbd></sup> |
+|    PokeApp    | Single Page Application | <sup><kbd>***[Repo](https://github.com/Enzos97/PI--Henry-pokemon)***</kbd></sup> | <sup><kbd>***[Link](https://pokemonsbyenzo.vercel.app/)***</kbd></sup> |
 |    TechMarket    | Group project, which is an e-commerce oriented to the sale of computer products. | <sup><kbd>***[Repo](https://github.com/gpitrella/PF-FrontEnd)***</kbd></sup> | <sup><kbd>***[Link](https://techmarketfront.vercel.app/)***</kbd></sup> |

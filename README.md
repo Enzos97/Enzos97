@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Enzo Sanchez</h1>
-<h3 align="center">A passionate full-Stack developer from Argentina</h3>
+<h3 align="center">I am a Full Stack Developer recently graduated from Henry's bootcamp. I consider myself a very curious and self-taught person who likes to learn new technologies, today I am familiar with JavaScript, TypeScript, MongoDB, PostgreSQL, Express, NodeJS, React, Redux, HTML and CSS.  In addition, I have training as an industrial engineer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzos97&label=Profile%20views&color=0e75b6&style=flat" alt="enzos97" /> </p>
 

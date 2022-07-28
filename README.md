@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzos97&label=Profile%20views&color=0e75b6&style=flat" alt="enzos97" /> </p>
 - 👨‍💻 All of my projects are available at https://enzos-portfolio-react.vercel.app/
-- 📫 How to reach me **enz997.ing.ind@gmail.com**
+- 📫 How to reach me enz997.ing.ind@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

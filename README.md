@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full Stack Developer recently graduated from Henry's bootcamp. I consider myself a very curious and self-taught person who likes to learn new technologies, today I am familiar with JavaScript, TypeScript, MongoDB, PostgreSQL, Express, NodeJS, React, Redux, HTML and CSS.  In addition, I have training as an industrial engineer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzos97&label=Profile%20views&color=0e75b6&style=flat" alt="enzos97" /> </p>
-
+- 👨‍💻 All of my projects are available at https://enzos-portfolio-react.vercel.app/
 - 📫 How to reach me **enz997.ing.ind@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
